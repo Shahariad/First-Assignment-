@@ -151,3 +151,35 @@
 .avatar-section {
     margin-top: 100px;
 }
+
+.big-pic {
+    text-align: center;
+    margin: 80px;
+
+
+
+}
+
+.pic3 {
+    padding: 20px;
+    width: 840px;
+    height: 365px;
+    border-radius: 14%;
+}
+
+.title5 {
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 0%;
+    
+}
+
+.big-pic {
+    box-shadow: inset;
+    background-color: aliceblue;
+    max-width: 1140px;
+    margin: auto;
+    text-align: center;
+
+
+}
