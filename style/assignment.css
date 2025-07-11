@@ -13,10 +13,41 @@
     font-weight: bold;
     color: white;
     height: 35px;
-    width: 132px;
+    width: 180px;
     font-size: 16px;
     border-radius: 5px;
     border: none;
+
+}
+
+.pic1 {
+    border-radius: 45px;
+    width: 300px;
+    margin-top: 80px;
+}
+
+.contant {
+    width: 380px;
+    height: 250px;
+
+    margin-top: 60px;
+}
+
+.contant:hover {
+    background-color: aliceblue;
+    box-shadow: 1px 1px 1px 1px ;
+}
+
+.title1 {
+    font-size: 42px;
+}
+
+.contant1 {
+    display: flex;
+    justify-content: space-around;
+    padding: 180px, 200px;
+    align-items: center;
+
 
 }
 
