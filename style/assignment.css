@@ -16,8 +16,19 @@
     width: 132px;
     font-size: 16px;
     border-radius: 5px;
+    border: none;
+
 }
 
+.btn-primary:hover {
+    background-color: green;
+}
+
+
+.header {
+    background-image: url(../images/Hero-bg.png);
+    height: 709px;
+}
 
 .open-sans-normal {
     font-family: "Open Sans", sans-serif;
@@ -31,4 +42,10 @@
     font-weight: 800;
     font-size: 34px;
     color: rgb(78, 71, 255);
+}
+
+.head-text {
+    font-weight: bold;
+    font-size: 65px;
+    text-align: center;
 }
