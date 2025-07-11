@@ -210,10 +210,36 @@
 
 .input {
     height: 50px;
-    border-radius: 5px;
-    background-color: white;
-    width: 300px;
-    padding: 10px ;
+    width: 150%;
+}
 
 
+
+
+
+
+.footer {
+    text-align: center;
+
+}
+
+.title7 {
+    font-weight: 291px;
+    font-size: 121px;
+    color: rgb(78, 71, 255);
+    margin-bottom: 0px;
+}
+
+.link {
+    margin: 20px;
+}
+
+.text {
+    margin-top: 0px;
+    color: rgb(137, 135, 161, 100%);
+}
+
+.massage {
+    height: 120px;
+    width: 150%;
 }
